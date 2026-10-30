@@ -1,0 +1,14 @@
+D:\UEH\CTDL\Bai3\Bai 3\bin\Debug\net10.0\Bai 3.exe
+D:\UEH\CTDL\Bai3\Bai 3\bin\Debug\net10.0\Bai 3.deps.json
+D:\UEH\CTDL\Bai3\Bai 3\bin\Debug\net10.0\Bai 3.runtimeconfig.json
+D:\UEH\CTDL\Bai3\Bai 3\bin\Debug\net10.0\Bai 3.dll
+D:\UEH\CTDL\Bai3\Bai 3\bin\Debug\net10.0\Bai 3.pdb
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.AssemblyInfoInputs.cache
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.AssemblyInfo.cs
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.csproj.CoreCompileInputs.cache
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.dll
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\refint\Bai 3.dll
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.pdb
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\Bai 3.genruntimeconfig.cache
+D:\UEH\CTDL\Bai3\Bai 3\obj\Debug\net10.0\ref\Bai 3.dll
